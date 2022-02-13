@@ -1,0 +1,1 @@
+python C:/dev/esp8266/Sming/Sming/Arch/Esp8266/Components/esptool/esptool/esptool.py -p COM7 -b 460800 write_flash -ff 40m -fm dio -fs 1MB 0x00000 out/Esp8266/debug/firmware/rboot.bin 0x002000 out/Esp8266/debug/firmware/rom0.bin
