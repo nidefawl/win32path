@@ -1,1 +1,1 @@
-%~dp0\ENVSET clang-latest
+%~dp0\ENVSET clang_latest
